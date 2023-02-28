@@ -1,5 +1,6 @@
 # Welcome to my world! 🌎
-👋 Hey there! I'm excited that you found my GitHub profile. Here you'll find a glimpse into my world of code and creativity.
+👋 Hey there! 
+I'm excited that you found my GitHub profile. Here you'll find a glimpse into my world of code and creativity.
 
 ## About Me
 I'm not just a developer, I'm a creator. I'm passionate about bringing ideas to life through technology and design. When I'm not coding, I'm probably painting, writing, or exploring the great outdoors.
